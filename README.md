@@ -18,7 +18,7 @@ I have experience developing **smart contracts** for blockchain **Layer2** solut
 ### 🛠️ Tech Stack & Focus
 
 ```javascript
-const Nick = {
+const Andrew = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, C#, Java, Flutter, NodeJS, Dart, Solidity, Rust],
   tools: [React, React Native, Redux, Node, Styled - Components, Jest, Docker, Java-Spring, Flutter, Foundry, Anchor],
