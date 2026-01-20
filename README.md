@@ -41,6 +41,5 @@ const Andrew = {
 
 I’m open to collaborations, dialogues about AI & social systems, and new engineering challenges. Feel free to reach out anytime!
 
-📧 **Email**: AnhTong@gmail.com  
-🌐 **Portfolio**: [AnhTong.github.io](http://AnhTong.github.io)  
-💼 **LinkedIn**: [linkedin.com/in/AnhTong](https://www.linkedin.com/in/AnhTong/)
+📧 **Email**: anh.tndev40@gmail.com  
+💼 **LinkedIn**: [linkedin.com/in/anh-tong-a0571a246](https://www.linkedin.com/in/anh-tong-a0571a246/)
