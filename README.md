@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-I'm **Tong Anh**, a software engineer with **4 years of fullstack experience**, specializing in **Backend and Infrastructure** engineering. I hold an **MSc in Data Science and AI** from **Hanoi University of Science and Technology**, graduating with **excellent/distinction** honors.
+I'm **Tong Anh**, a software engineer with **5 years of fullstack experience**, specializing in **Backend and Infrastructure** engineering. I hold an **MSc in Data Science and AI** from **Hanoi University of Science and Technology**, graduating with **excellent/distinction** honors.
 
 Currently, I'm pursuing a **PhD in Computer Science/Data Science and AI** at **Griffith University** in **Australia**.
 
